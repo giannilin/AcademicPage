@@ -14,4 +14,4 @@ author_profile: true
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-<script src="https://bibbase.org/show?bib=https://giannilin.github.io/publications/ListaPubblicazioni.bib&jsonp=1&theme=simple&authorFirst=1&owner='Lin, J'"></script>
+<script src="https://bibbase.org/service/mendeley/6bce6ab9-03b5-36ad-a474-26e482dc52c3?jsonp=1&theme=simple&authorFirst=1&owner='Lin, J'"></script> 
