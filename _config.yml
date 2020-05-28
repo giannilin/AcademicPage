@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianyi Lin"
+  name             : "Jianyi Lin<br>林剑艺"
   avatar           : "Foto Github.png"
   bio              : "Assistant Professor at Khalifa University"
   location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=iY1DbaQAAAAJ"
-  email            :
+  email            : "NAME DOT SURNAME AT ku.ac.ae"
   researchgate     : "https://www.researchgate.net/profile/Jianyi_Lin3" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
