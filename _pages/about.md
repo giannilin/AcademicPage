@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Assistant Professor at [Khalifa University](https://www.ku.ac.ae), Abu Dhabi, UAE.
+I am currently an Assistant Professor at the Department of Mathematics, [Khalifa University](https://www.ku.ac.ae), Abu Dhabi, UAE.
 
 I received my PhD in Mathematics and Statistics for Computational Sciences from the [University of Milan](https://www.unimi.it) and the Master Degree in Computing Systems Engineering from [Politecnico di Milano](https://www.polimi.it).
 
