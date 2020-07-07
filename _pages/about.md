@@ -22,4 +22,4 @@ You can get in contact with me by e-mail at: _name_ DOT _surname_ AT ku.ac.ae
  - The Call for Papers to [Video Processing for Human Behavioral Analysis Track](http://phuselab.di.unimi.it/VP-HBA2021) in the 36th ACM SAC 2021 is open.
  {: .notice}
  
- <style>p{color:red;}</style>
+ <p style="color:red">aaa</p>
