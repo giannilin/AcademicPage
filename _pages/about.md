@@ -1,6 +1,3 @@
-<h3 style="color:red">Highlights:</h3>
- - The Call for Papers to [Video Processing for Human Behavioral Analysis Track](http://phuselab.di.unimi.it/VP-HBA2021) in the 36th ACM SAC 2021 is open.
-
 ---
 permalink: /
 title: "About me"
