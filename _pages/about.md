@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <h3 style="color:red">Highlights:</h3>
- * <p style="font-size: smaller">Paper submission deadline for [Video Processing for Human Behavioral Analysis Track](http://phuselab.di.unimi.it/VP-HBA2021) in the 36th ACM SAC 2021 has been extended to 12th October, 23:59 UTC+0</p>
+ * Paper submission deadline for [Video Processing for Human Behavioral Analysis Track](http://phuselab.di.unimi.it/VP-HBA2021) in the 36th ACM SAC 2021 has been extended to 12th October, 23:59 UTC+0
  * Paper submission dedline for the [International Workshop on pattern recognition for positive technology and elderly wellbeing](http://phuselab.di.unimi.it/CARE2020) (CARE2020) in the 25th ICPR 2020 has been extended to 17th October
  * Paper submission dedline for the [13th International Conference on Agents and Artificial Intelligence](http://www.icaart.org) (ICAART 2021) has been extended to 29th October
 
