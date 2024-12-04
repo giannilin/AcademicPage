@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jianyi Lin"
 title_separator          : "-"
 name                     : &name "Jianyi Lin"
-description              : &description "Associate Professor at Unversità Cattolica del Sacro Cuore"
+description              : &description "Associate Professor at Università Cattolica del Sacro Cuore"
 url                      : https://giannilin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "giannilin.github.io" # impostare repository name in Settings a <propriousername>.github.io
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Jianyi Lin<br>林剑艺"
   avatar           : "Foto Github.png"
-  bio              : "Associate Professor at Unversità Cattolica del Sacro Cuore"
+  bio              : "Associate Professor<br>Theoretical Computer Science, Machine Learning, Artificial Ingelligence, Computational Mathematics"
   location         : "Milan, Italy"
-  employer         :
+  employer         : "Università Cattolica del Sacro Cuore"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=iY1DbaQAAAAJ"
   email            : "jianyi DOT lin AT unicatt.it"
   researchgate     : "https://www.researchgate.net/profile/Jianyi_Lin3" # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://docenti.unicatt.it/ppd2/en/docenti/81902/jianyi-lin"
   bitbucket        :
   codepen          :
   dribbble         :
