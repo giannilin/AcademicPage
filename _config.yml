@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jianyi Lin<br>林剑艺"
   avatar           : "Foto Github.png"
-  bio              : "<b>Associate Professor</b><br><br>Theoretical Computer Science<br>Machine Learning<br>Artificial Ingelligence<br>Computational Mathematics"
+  bio              : "<b>Associate Professor</b><br><p>Theoretical Computer Science<br>Machine Learning<br>Artificial Ingelligence<br>Computational Mathematics</p>"
   location         : "Milan, Italy"
   employer         : "<a href=https://www.unicatt.it>Università Cattolica del Sacro Cuore</a>"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -268,7 +268,7 @@ plugins:
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
