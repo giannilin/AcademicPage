@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <h3 style="color:red">Highlights:</h3>
- * [Graph Models for Learning and Recognition (GMLR 2025)](https://phuselab.di.unimi.it/GMLR2025) in the [40th ACM/SIGAPP Symposium On Applied Computing (SAC 2025)](https://www.sigapp.org/sac/sac2025) - Catania, Italy - March 31 - April 4, 2025
+ * [Graph Models for Learning and Recognition (GMLR 2025)](https://phuselab.di.unimi.it/GMLR2025) Track in the [40th ACM/SIGAPP Symposium On Applied Computing (SAC 2025)](https://www.sigapp.org/sac/sac2025) in Catania (Italy), March 31 - April 4, 2025
 
 ## About me
 
