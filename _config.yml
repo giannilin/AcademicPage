@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jianyi Lin<br>林剑艺"
   avatar           : "Foto Github.png"
-  bio              : "<b>Associate Professor</b><br><p>Theoretical Computer Science<br>Machine Learning<br>Artificial Ingelligence<br>Computational Mathematics</p>"
-  employer         : "<a href='https://www.unicatt.it'>Università Cattolica</a>"
-  location         : "<a href='https://maps.app.goo.gl/1WUrg89hpT6hCk8g7'>Milan, Italy</a>"
+  bio              : "<b>Associate Professor</b><p>Theoretical Computer Science<br>Machine Learning<br>Artificial Ingelligence<br>Computational Mathematics</p>"
+  location         : "Milan, Italy"
+  employer         : "Università Cattolica"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=iY1DbaQAAAAJ"
   email            : "jianyi DOT lin AT unicatt.it"
